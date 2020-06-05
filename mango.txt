@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 new file again..
 this is b1 b1 b1 b1
+=======
+new file again
+..b2 b2 b2
+>>>>>>> b2
